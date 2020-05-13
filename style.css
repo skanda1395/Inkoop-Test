@@ -1,0 +1,29 @@
+#container {
+  min-width: 350px;
+  text-align: center;
+  border: 1px solid black;
+  margin: 0;
+  position: absolute;
+  top: 40%;
+  left: 50%;
+  -ms-transform: translate(-50%, -50%);
+  transform: translate(-50%, -50%);
+  padding: 10px;
+  background-color: #22c585;
+}
+
+h1 {
+  margin: 10px 0;
+}
+
+#numberbox {
+  width: 100px;
+  height: 25px;
+  background-color: #fff;
+  padding: 10px;
+  margin: 20px auto;
+}
+
+button {
+  padding: 5px;
+}
